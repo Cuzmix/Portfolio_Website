@@ -32,3 +32,7 @@ $(document).ready(function(){
     });
   });
 })
+
+function myAlertFunction() {
+  alert("Email has been sent Thank you!");
+}
